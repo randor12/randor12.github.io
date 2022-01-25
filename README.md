@@ -1,5 +1,3 @@
-<html lang="en">
-<body>
 <div id="page-banner" class="banner">
     <!--Page Navigation-->
     <nav id="navigator" class="navbar">
@@ -93,6 +91,4 @@
             <li>Programming</li>
         </ul>
     </section>
-    </div>
-</body>
-</html>
+</div>
