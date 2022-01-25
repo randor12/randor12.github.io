@@ -14,7 +14,7 @@
     <section id="education" class="resume-section">
         <!--Education Section-->
         <h2 class="section-title">Education:</h2>
-        <h3 class="education-info">Data Centric Computing Major, Virginia Tech, GPA: 3.61</h2>
+        <h3 class="education-info">Data Centric Computing Major, Virginia Tech, GPA: 3.61</h3>
     </section>
     <section id="contact-info" class="resume-section">
         <!--Contact Section-->
