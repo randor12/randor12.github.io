@@ -19,8 +19,8 @@
     <section id="contact-info" class="resume-section">
         <!--Contact Section-->
         <h2 class="section-title">Contact Info:</h2>
-        <p id="mailing-address" class="contact-element"><address class="address"><span class="address street">241 Golden Harvest Circle</span>, <span class="address city">Blacksburg</span>, <span class="address state">Virginia</span>, <span class="address post-code">24060</span></address></p>
-        <p id="email" class="contact-element">Email: <a href="mailto:rynicholas@vt.edu">rynicholas@vt.edu</a></p>
+        <p id="mailing-address" class="contact-element"><address class="address"><span class="address street">2 Briar Brae Road</span>, <span class="address city">Darien</span>, <span class="address state">Connecticut</span>, <span class="address post-code">06820</span></address></p>
+        <p id="email" class="contact-element">Email: <a href="mailto:ry12nicholas@gmail.com">ry12nicholas@gmail.com</a></p>
         <p id="phone" class="contact-element">Phone: (203) 400-9614</p>
     </section>
     <section id="work-info" class="resume-section">
