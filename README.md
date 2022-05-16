@@ -8,7 +8,7 @@
             <a href="#interests" class="nav-element">Interests</a>
     </nav>
     <h1 id="title">Ryan Nicholas</h1>
-    <img id="linked-in-photo" src="https://tinyurl.com/web76y4b"/>
+    <img id="linked-in-photo" src="MyPicture.jpeg" alt="My Photo"/>
 </div>
 <div class="main-resume">
     <section id="education" class="resume-section">
